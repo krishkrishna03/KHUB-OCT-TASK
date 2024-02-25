@@ -1,0 +1,44 @@
+/* FileUpload.css */
+
+/* Style for the container div */
+.file-upload-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Style for the hidden file input */
+  .file-input {
+    display: none; /* Hide the input element */
+  }
+  
+  /* Style for the file input label */
+  .file-input-label {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  /* Style for the upload button */
+  .upload-button {
+    background-color: #27ae60;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  /* Style for the success and error messages */
+  .message {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  /* Optional: Style the file name display */
+  .file-name {
+    margin-top: 10px;
+  }
+  

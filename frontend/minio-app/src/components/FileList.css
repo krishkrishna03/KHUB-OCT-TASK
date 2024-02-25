@@ -1,0 +1,32 @@
+/* FileList.css */
+
+/* Style for the container div */
+.file-list-container {
+  text-align: center;
+  margin: 20px;
+  width: 500px;
+}
+
+/* Style for the button that selects images */
+.image-select-button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+  font-size: 16px;
+}
+
+/* Style the list of image names */
+.image-list {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+/* Style the list items */
+.image-list-item {
+  margin: 10px 0;
+}
